@@ -1,0 +1,7 @@
+Arroto 3
+mira  5
+força 5
+beleza 10
+coragem 8
+inteligencia 7
+Chaveco 8
