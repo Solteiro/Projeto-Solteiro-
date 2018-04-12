@@ -1,2 +1,0 @@
-# Projeto-Solteiro-
-Continuar Solteiro
